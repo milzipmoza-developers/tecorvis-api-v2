@@ -1,0 +1,8 @@
+slack:
+  baseUri: https://slack.com/api/chat.postMessage
+  authentication: a
+  requestedChannel: a
+  enrolledChannel: a
+
+server:
+  port: 5050
